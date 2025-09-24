@@ -26,11 +26,15 @@ Theory:
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+
+
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
 •  Upper point of SPDT switch 1 is connected to the lower point of SPDT
+
+
 switch2.
 •  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
 •	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
@@ -39,12 +43,21 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+## Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+<img width="1180" height="852" alt="image" src="https://github.com/user-attachments/assets/7c549f3d-007b-41c3-ae50-07a91b3924f1" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 083709" src="https://github.com/user-attachments/assets/17961cb9-acfc-40fc-bd44-4c06400423ef" />
+
 	
-Cross connection: CIRCUIT DIAGRAM:
+## Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
 
-RESULT:
+<img width="1198" height="922" alt="image" src="https://github.com/user-attachments/assets/f6b34414-f481-4b6a-b6ff-f7f0a7698b21" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 084137" src="https://github.com/user-attachments/assets/693eb49e-79f6-4aea-a5e8-02ee869ecdba" />
+
+
+
+## RESULT:
 Thus the staircase wiring is connected and tested.
